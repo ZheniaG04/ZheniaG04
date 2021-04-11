@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZheniaG04
 - 🌱 I’m currently learning iOS & Swift - The Complete iOS App Development Bootcamp in Udemy
-- 💞️ I’m looking to collaborate on IOS development
 - 📫 How to reach me evhenguts@gmail.com
 
 <!---
