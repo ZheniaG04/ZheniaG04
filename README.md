@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZheniaG04
+- 👋 Hi, I’m Yevhenii Huts
 - 🌱 IOS developer
 - 📫 How to reach me evhenguts@gmail.com
 
